@@ -1178,6 +1178,7 @@ properties:
           - enum:
               - xunlong,orangepi-5
               - xunlong,orangepi-5b
+              - xunlong,orangepi-5-pro
           - const: rockchip,rk3588s
 
       - description: Zkmagic A95X Z2
